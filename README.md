@@ -2,11 +2,11 @@
 
 Dashboard designed and tuned for the **TU Delft Bachelor's** grade system. Copy your grades onto the `Courses` sheet and let the magic happen. Cheers!
 
-### [1. Introduction](#1-introduction)
+#### [1. Introduction](#1-introduction)
 
-### [2. Usage](#2-usage)
+#### [2. Usage](#2-usage)
 
-### [3. Backlog](#3-backlog)
+#### [3. Backlog](#3-backlog)
 
 ---
 
