@@ -63,16 +63,10 @@ You can change 1 parameter: the year you're in, at the top. The exams which will
 
 Below is the exams dashboard for years 1, 2 and 3, if you have completed Linear Algebra alone, as in the `Courses` example above.
 
-### Setting Year -> 1
-![alt text](demo/exams1.png "No exams passed besides Linear Algebra: year 1")
-
-
-### Setting Year -> 2
-![alt text](demo/exams2.png "No exams passed besides Linear Algebra: year 2")
-
-
-### Setting Year -> 3
-![alt text](demo/exams3.png "No exams passed besides Linear Algebra: year 3")
+| ![alt text](demo/exams1.png "No exams passed besides Linear Algebra: year 1") | 
+| --- | 
+| ![alt text](demo/exams2.png "No exams passed besides Linear Algebra: year 2") |
+| ![alt text](demo/exams3.png "No exams passed besides Linear Algebra: year 3") |
 
 ### `2.4 Quarter dashboard`
 
@@ -88,10 +82,9 @@ You will immediately have your exam count, which exams you need to do this quart
 2. Your _possible_ grade
 
 The time is calculated with each subject's ECTS. It's indicative, and probably an overestimation, so if you keep up with what this tells you you should be more than good. Good luck in your exams!
-
-![alt text](demo/quarter.png "Quarter dashboard")
-
----
+| ![alt text](demo/quarter.png "Quarter 1 dashboard") | ![alt text](demo/quarter2.png "Quarter 2 dashboard") |
+| --- | --- |
+| ![alt text](demo/quarter3.png "Quarter 3 dashboard") | ![alt text](demo/quarter4.png "Quarter 4 dashboard") |
 
 ## 3. Backlog
 All bug finds and suggestions are welcome! If you think you can improve this feel free to get in contact. 
