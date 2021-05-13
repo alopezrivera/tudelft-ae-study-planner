@@ -8,13 +8,13 @@ Dashboard designed and tuned for the **TU Delft Aerospace Engineering Bachelor's
 
 [**2. Usage**](#2-usage)
 
-<sub>[_2.1 Courses_](#21-courses)<\sub>
+<sub>[_2.1 Courses_](#21-courses)</sub>
 
-<sub>[_2.2 Modules_](#22-modules)<\sub>
+<sub>[_2.2 Modules_](#22-modules)</sub>
 
-<sub>[_2.3 Year dashboard_](#23-year-dashboard)<\sub>
+<sub>[_2.3 Year dashboard_](#23-year-dashboard)</sub>
 
-<sub>[_2.4 Quarter dashboard_](#24-quarter-dashboard)<\sub>
+<sub>[_2.4 Quarter dashboard_](#24-quarter-dashboard)</sub>
 
 [**3. Backlog**](#3-backlog)
 
