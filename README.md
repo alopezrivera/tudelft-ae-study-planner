@@ -8,13 +8,13 @@ Dashboard designed and tuned for the **TU Delft Aerospace Engineering Bachelor's
 
 ### [**2. Usage**](#2-usage)
 
-#### [_2.1 Usage_](#21-courses)
+#### [_2.1 Courses_](#21-courses)
 
-#### [_2.2 Usage_](#22-modules)
+#### [_2.2 Modules_](#22-modules)
 
-#### [_2.3 Usage_](#23-exams-dashboard)
+#### [_2.3 Year dashboard_](#23-year-dashboard)
 
-#### [_2.4 Usage_](#24-quarter-dashboard)
+#### [_2.4 Quarter dashboard_](#24-quarter-dashboard)
 
 ### [**3. Backlog**](#3-backlog)
 
@@ -55,7 +55,7 @@ Your module grades will be calculated automatically from the data in your `Cours
 
 ![alt text](demo/modules.png "Modules")
 
-### `2.3 Exams dashboard`
+### `2.3 Year dashboard`
 
 Year-long exams dashboard, organized in quarters (excluding quarter 5, that might be included further on).
 
