@@ -1,4 +1,9 @@
 # Study Dashboard
+
+Dashboard designed and tuned for the **TU Delft Bachelor's** grade system. Copy your grades onto the `Courses` sheet and let the magic happen. 
+
+## Introduction
+
 At some point in my Bachelor's I realized I could do with an effective way to
 
 1. Visually inspect my progress
@@ -7,9 +12,7 @@ At some point in my Bachelor's I realized I could do with an effective way to
 
 It turned out to be a cool project to learn Excel. 
 
-The sheet is designed and tuned for the TU Delft Bachelor's module system. Copy your grades onto the `Courses` sheet and let the magic happen. 
-
 ---
 
-# Backlog
+## Backlog
 Adding further flexibility and functionality seems a task better suited for a web or desktop application. 
