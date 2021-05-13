@@ -1,6 +1,6 @@
 # Study Dashboard
 
-Dashboard designed and tuned for the **TU Delft Bachelor's** grade system. Copy your grades onto the `Courses` sheet and let the magic happen. Cheers!
+Dashboard designed and tuned for the **TU Delft Bachelor's** grade system. Copy your grades onto the `Courses` sheet and let the magic happen. 
 
 #### [1. Introduction](#1-introduction)
 
@@ -18,7 +18,7 @@ At some point in my Bachelor's I realized I could do with an effective way to
 3. Plan my study and set my goals
 2. Get a fair estimate of how much I must study (especially daily) to achieve my goals
 
-It turned out to be a cool project to learn Excel!
+It turned out to be a cool project to learn Excel. Hope you find some use in it!
 
 ## 2. Usage
 
