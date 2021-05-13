@@ -72,9 +72,12 @@ In this dashboard you can specify 3 parameters:
 - `Study: start` - when do you plan on starting to study
 - `Study: end` - usually the first day of exam week
 
-You will immediately have your exam count, which exams you need to do this quarter, as well as
+You will immediately have your exam count, which exams you need to do this quarter, as well as the time you must study daily in the study period you have specified to get: 
 
-- The time you must study daily in the study period you have specified to get: 1. your _maximum_ grade 2. your _possible_ grade.
+1. Your _maximum_ grade 
+2. Your _possible_ grade
+
+The time is calculated with each subject's ECTS. It's indicative, and probably an overestimation, so if you keep up with what this tells you you should be more than good. Good luck in your exams!
 
 ![alt text](demo/quarter.png "Quarter dashboard")
 
