@@ -4,19 +4,19 @@ Dashboard designed and tuned for the **TU Delft Aerospace Engineering Bachelor's
 
 `Antonio Lopez Rivera, 2021`
 
-### [**1. Introduction**](#1-introduction)
+#### [**1. Introduction**](#1-introduction)
 
-### [**2. Usage**](#2-usage)
+#### [**2. Usage**](#2-usage)
 
-#### [_2.1 Courses_](#21-courses)
+##### [_2.1 Courses_](#21-courses)
 
-#### [_2.2 Modules_](#22-modules)
+##### [_2.2 Modules_](#22-modules)
 
-#### [_2.3 Year dashboard_](#23-year-dashboard)
+##### [_2.3 Year dashboard_](#23-year-dashboard)
 
-#### [_2.4 Quarter dashboard_](#24-quarter-dashboard)
+##### [_2.4 Quarter dashboard_](#24-quarter-dashboard)
 
-### [**3. Backlog**](#3-backlog)
+#### [**3. Backlog**](#3-backlog)
 
 ---
 
