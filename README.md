@@ -57,7 +57,7 @@ Your module grades will be calculated automatically from the data in your `Cours
 
 ### `2.3 Year dashboard`
 
-Year-long exams dashboard, organized in quarters (excluding quarter 5, that might be included further on).
+Year-long exams dashboard, organized in quarters (including 5).
 
 You can change 1 parameter: the year you're in, at the top. The exams which will appear in the dashboard (as well as the [ `quarter` ](#25-dashboard---quarter) dashboard) are obviously the ones available at your year and the years below.
 
