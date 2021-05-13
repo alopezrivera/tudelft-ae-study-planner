@@ -61,7 +61,14 @@ Year-long exams dashboard, organized in quarters (excluding quarter 5, that migh
 
 You can change 1 parameter: the year you're in, at the top. The exams which will appear in the dashboard (as well as the [ `quarter` ](#25-dashboard---quarter) dashboard) are obviously the ones available at your year and the years below.
 
-Below is the exams dashboard for years 1, 2 and 3, if you have completed Linear Algebra alone, as in the `Courses` example above.
+NOTE: In the [ `quarter` ](#25-dashboard---quarter) dashboard you can set the quarter you're currently in. That, plus the year you're in are enough to display resits are handled as you'd expect: 
+- If you have to resit a subject in your year, you'll see it in the quarter after the original exam
+- If you have to resit a Year 2, Q2 subject, and you're in year 3, the following happens:
+  - If you're in Year 3 Q2, you'll see the subject in your Q2 dashboard.
+  - If you're in Year 3 Q3 (meaning you failed the resit and have to take it again) you'll see it in your Q3 dashboard
+  - If you move on to Year 3 Q4 without having passed it, you'll have to retake it again in "Year 4" Q2: thus, it will move back to the Q2 dashboard
+
+For the following examples, we'll say you have a 9 in Linear Algebra, and haven't done any other exams yet, as in the `Courses` example above. Below is the exams dashboard for years 1, 2 and 3 for that case (as expected, there's a lot of exams if you're in Year 3).
 
 | ![alt text](demo/exams1.png "No exams passed besides Linear Algebra: year 1") | 
 | --- | 
@@ -72,11 +79,11 @@ Below is the exams dashboard for years 1, 2 and 3, if you have completed Linear 
 
 In this dashboard you can specify 3 parameters:
 
-- `Quarter` - either "Q1", "Q2", "Q3" or "Q4"
+- `Quarter` - either 1, 2, 3, 4 or 5. Introduce the numbers directly, the cells are formatted to display "Q{number}"
 - `Study: start` - when do you plan on starting to study
 - `Study: end` - usually the first day of exam week
 
-You will immediately have your exam count, which exams you need to do this quarter, as well as the time you must study daily in the study period you have specified to get: 
+You will immediately how many days are left until exams, which exams you need to do this quarter, as well as the time you must study daily in the study period you have specified to get: 
 
 1. Your _maximum_ grade 
 2. Your _possible_ grade
