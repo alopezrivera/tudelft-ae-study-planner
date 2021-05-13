@@ -94,6 +94,8 @@ The time is calculated with each subject's ECTS. It's indicative, and probably a
 ---
 
 ## 3. Backlog
-Adding further flexibility and functionality seems a task better suited for a web or desktop application. 
+All bug finds and suggestions are welcome! If you think you can improve this feel free to get in contact. 
 
-- Desktop app/Webapp?
+Adding further flexibility and functionality seems a task better suited for a web or desktop application. It would be quite an interesting project too.
+
+- Desktop/Webapp
