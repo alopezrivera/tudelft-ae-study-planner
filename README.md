@@ -1,6 +1,6 @@
-# Study Dashboard
+# TU Delft AE GPA Calculator and Study Dashboard
 
-Dashboard designed and tuned for the **TU Delft Bachelor's** grade system. Copy your grades onto the `Courses` sheet and let the magic happen. 
+Dashboard designed and tuned for the **TU Delft Aerospace Engineering Bachelor's** grade system. Copy your grades onto the `Courses` sheet and let the magic happen. 
 
 #### [1. Introduction](#1-introduction)
 
