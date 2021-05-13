@@ -55,7 +55,11 @@ Below is the exams dashboard for years 1, 2 and 3, if you have completed Linear 
 
 ![alt text](demo/exams1.png "No exams passed besides Linear Algebra: year 1")
 
+---
+
 ![alt text](demo/exams2.png "No exams passed besides Linear Algebra: year 2")
+
+---
 
 ![alt text](demo/exams3.png "No exams passed besides Linear Algebra: year 3")
 
