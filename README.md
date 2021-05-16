@@ -61,7 +61,7 @@ Year-long exams dashboard, organized in quarters (from 1 to 5).
 
 You can change 1 parameter: the year you're in, at the top. The exams which will appear in the dashboard (as well as the [ `quarter` ](#25-dashboard---quarter) dashboard) are obviously the ones available at your year and the years below.
 
-NOTE: In the [ `quarter` ](#25-dashboard---quarter) dashboard you can set the quarter you're currently in. That, plus the year you're in are enough to display resits are handled as you'd expect: 
+NOTE: In the [ `quarter` ](#25-dashboard---quarter) dashboard you can set the quarter you're currently in. That, plus the year you're in, are enough to display resits are as you'd expect: 
 - If you have to resit a subject in your year, you'll see it in the quarter after the original exam
 - If you have to resit a Year 2, Q2 subject, and you're in year 3, the following happens:
   - If you're in Year 3 Q2, you'll see the subject in your Q2 dashboard.
