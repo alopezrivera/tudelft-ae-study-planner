@@ -68,7 +68,7 @@ NOTE: In the [ `quarter` ](#25-dashboard---quarter) dashboard you can set the qu
   - If you're in Year 3 Q3 (meaning you failed the resit and have to take it again) you'll see it in your Q3 dashboard
   - If you move on to Year 3 Q4 without having passed it, you'll have to retake it again in "Year 4" Q2: thus, it will move back to the Q2 dashboard
 
-For the following examples, we'll say you have a 9 in Linear Algebra, and haven't done any other exams yet, as in the `Courses` example above. Below is the exams dashboard for years 1, 2 and 3 for that case (as expected, there's a lot of exams if you're in Year 3).
+For the following examples, we'll say you have a 9 in Linear Algebra, and haven't done any other exams yet, as in the `Courses` example above. Below is the exams dashboard for years 1, 2 and 3 in that case (as expected, there's a lot of exams if you're in Year 3).
 
 | ![alt text](demo/exams1.png "No exams passed besides Linear Algebra: year 1") | 
 | --- | 
@@ -83,7 +83,7 @@ In this dashboard you can specify 3 parameters:
 - `Study: start` - when do you plan on starting to study
 - `Study: end` - usually the first day of exam week
 
-You will immediately how many days are left until exams, which exams you need to do this quarter, as well as the time you must study daily in the study period you have specified to get: 
+You will immediately see how many days are left until exams, which exams you need to do this quarter, as well as approximately how much time you must study daily in the study period you have specified to get: 
 
 1. Your _maximum_ grade 
 2. Your _possible_ grade
