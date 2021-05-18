@@ -80,6 +80,7 @@ In the [ `quarter` ](#25-dashboard---quarter) dashboard you can set the quarter 
 Resits are highlighted in red if you need to pass that exam, or green if you have already passed it and just want to raise your grade. In the image below you can see an example, set in Year 1 Q4, if you got a 3 for Waves and a 6 for Calc II and wanna resit both.
 
 | ![alt text](demo/resit_handling.png "Year 1, Q4: Waves failed (resit necessary, red), Calc II passed (resit optional, green)") |
+| --- |
 
 ### `2.4 Quarter dashboard`
 
