@@ -68,20 +68,6 @@ For the following examples, we'll say you have a 9 in Linear Algebra, and haven'
 | ![alt text](demo/exams2.png "No exams passed besides Linear Algebra: year 2") |
 | ![alt text](demo/exams3.png "No exams passed besides Linear Algebra: year 3") |
 
-#### Resit handling
-
-In the [ `quarter` ](#25-dashboard---quarter) dashboard you can set the quarter you're currently in. That, plus the year you're in, are enough to display resits are as you'd expect: 
-- If you have to resit a subject in your year, you'll see it in the quarter after the original exam
-- If you have to resit a Year 2, Q2 subject, and you're in year 3, the following happens:
-  - If you're in Year 3 Q2, you'll see the subject in your Q2 dashboard.
-  - If you're in Year 3 Q3 (meaning you failed the resit and have to take it again) you'll see it in your Q3 dashboard
-  - If you move on to Year 3 Q4 without having passed it, you'll have to retake it again in "Year 4" Q2: thus, it will move back to the Q2 dashboard
-
-Resits are highlighted in red if you need to pass that exam, or green if you have already passed it and just want to raise your grade. In the image below you can see an example, set in Year 1 Q4, if you got a 3 for Waves and a 6 for Calc II and wanna resit both.
-
-| ![alt text](demo/resit_handling.png "Year 1, Q4: Waves failed (resit necessary, red), Calc II passed (resit optional, green)") |
-| --- |
-
 ### `2.4 Quarter dashboard`
 
 In this dashboard you can specify 3 parameters:
@@ -99,6 +85,20 @@ The time is calculated with each subject's ECTS. It's indicative, and probably a
 | ![alt text](demo/quarter.png "Quarter 1 dashboard") | ![alt text](demo/quarter2.png "Quarter 2 dashboard") |
 | --- | --- |
 | ![alt text](demo/quarter3.png "Quarter 3 dashboard") | ![alt text](demo/quarter4.png "Quarter 4 dashboard") |
+
+#### Resit handling
+
+In the [ `quarter` ](#25-dashboard---quarter) dashboard you can set the quarter you're currently in. That, plus the year you're in, are enough to display resits are as you'd expect: 
+- If you have to resit a subject in your year, you'll see it in the quarter after the original exam
+- If you have to resit a Year 2, Q2 subject, and you're in year 3, the following happens:
+  - If you're in Year 3 Q2, you'll see the subject in your Q2 dashboard.
+  - If you're in Year 3 Q3 (meaning you failed the resit and have to take it again) you'll see it in your Q3 dashboard
+  - If you move on to Year 3 Q4 without having passed it, you'll have to retake it again in "Year 4" Q2: thus, it will move back to the Q2 dashboard
+
+Resits are highlighted in red if you need to pass that exam, or green if you have already passed it and just want to raise your grade. In the image below you can see an example, set in Year 1 Q4, if you got a 3 for Waves and a 6 for Calc II and wanna resit both.
+
+| ![alt text](demo/resit_handling.png "Year 1, Q4: Waves failed (resit necessary, red), Calc II passed (resit optional, green)") |
+| --- |
 
 ## 3. Backlog
 All bug finds and suggestions are welcome! If you think you can improve this feel free to get in contact. 
