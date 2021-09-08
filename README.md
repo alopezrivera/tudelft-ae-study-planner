@@ -2,8 +2,6 @@
 
 Dashboard designed and tuned for the **TU Delft Aerospace Engineering Bachelor's** grade system. Copy your grades onto the `Courses` sheet and let the magic happen.
 
-`Antonio Lopez Rivera, 2021`
-
 [**1. Introduction**](#1-introduction)
 
 [**2. Usage**](#2-usage)
